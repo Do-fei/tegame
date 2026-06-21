@@ -1,0 +1,12 @@
+{
+  "name": "return17-slice",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "《重返十七岁》垂直切片 · 共享奶昔（终端 + 网页双端，共用像素核心）",
+  "scripts": {
+    "play": "node term.js",
+    "selftest": "node term.js --selftest",
+    "web": "node serve.js"
+  }
+}

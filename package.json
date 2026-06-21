@@ -1,0 +1,34 @@
+{
+  "name": "tegame",
+  "version": "1.0.0",
+  "description": "《重返十七岁》—— 终端 + 网页双端 1-bit 像素文字冒险游戏（npx tegame 一键在终端里玩）",
+  "type": "module",
+  "bin": {
+    "tegame": "game/term.js"
+  },
+  "files": [
+    "game"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node game/term.js",
+    "web": "node game/serve.js",
+    "selftest": "node game/term.js --selftest",
+    "fittest": "node game/term.js --fittest"
+  },
+  "keywords": [
+    "game",
+    "terminal",
+    "tui",
+    "text-adventure",
+    "visual-novel",
+    "pixel-art",
+    "1-bit",
+    "ansi",
+    "中文游戏"
+  ],
+  "author": "大韦",
+  "license": "MIT"
+}
