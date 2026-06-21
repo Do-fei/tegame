@@ -1,5 +1,7 @@
 # 重返十七岁
 
+![重返十七岁 · 启动页](media/title.png)
+
 > 回不去的，是十七岁；放不下的，是往生道。
 
 一个能看见鬼的人，一段横跨阴阳的执念，一句迟了十年的告白。
@@ -70,6 +72,17 @@ node game/serve.js    # 网页版 → 浏览器打开 http://localhost:8099
 - 开发自测：`node game/term.js --selftest` · 终端尺寸适配自检：`node game/term.js --fittest`
 
 设定文档：[世界观](docs/story-bible.md) · [人物](docs/characters.md) · [剧情结构](docs/script-outline.md) · [恋爱设计](docs/romance-design.md)
+
+## 致敬 · 命运石之门
+
+本作开发者大韦，是 **《命运石之门》(Steins;Gate)** 的狂热粉丝。
+
+游戏里「Made with 牧濑红莉栖 ♥ 比屋定真帆」的署名、以及那位软萌的「AI 科技少女」像素形象，**纯粹是一名粉丝的私心致敬**。
+
+> 牧濑红莉栖、比屋定真帆，均为《命运石之门》的原创角色，版权归原作者及版权方（5pb. / Nitroplus / MAGES.）所有。
+> 本项目与《命运石之门》官方无任何关联，不对上述角色主张任何权利，仅作 fan tribute 之用。
+
+エル・プサイ・コングルゥ。
 
 ---
 
